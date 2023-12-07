@@ -1,7 +1,8 @@
 ### HOLA. Hi. Bonsoir. 👋
 
-- 🔭 I’m currently working on Spring boot. 
-- 🌱 I’m currently learning maven and more on the Java ecosystem.
+- I actually work with Java EE
+- 🔭 I've worked efusively on Spring boot. 
+- 🌱 I love maven and more on the Java ecosystem.
 - 💬 Ask me about ... [the things i post on stackoverflow](https://stackoverflow.com/users/2209264/antonio-e) (for example)
 - 📫 How to reach me: 
   - looking for my [linkedin](https://www.linkedin.com/in/aelrio/) 
